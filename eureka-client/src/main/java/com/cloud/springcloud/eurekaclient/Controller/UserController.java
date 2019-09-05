@@ -14,8 +14,4 @@ public class UserController {
         return "I am  chinese";
     }
 
-    public  String  signGirl(){
-
-        return "";
-    }
 }
