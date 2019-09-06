@@ -1,3 +1,5 @@
-select *from table 
+select *from table
+
+delete from table
 
 
